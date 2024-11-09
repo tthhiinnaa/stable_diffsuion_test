@@ -1,5 +1,5 @@
 
-<img title="" src="./asset/hg_diffuser.png" alt="Untitled" data-align="inline">
+<img title="" src="./sd_pj//asset/hg_diffuser.png" alt="Untitled" data-align="inline">
 
 
 ## 문제 배경 및 정의
@@ -10,7 +10,7 @@
   
   - Image to Image AI 모델과 MVP 데모 만들기
   
-<img title="" src="./asset/mvp.png" alt="Untitled" data-align="inline">
+<img title="" src="./sd_pj//asset/mvp.png" alt="Untitled" data-align="inline">
 
 - 웹 I2I AI MVP 데모
   
@@ -51,7 +51,7 @@
 - DS는 Stable Diffusion을 통해 img2img 모델링 구축하는 경험 한다.
 - 여러 모델들을 Fine-tunning 경험 한다.
 
-<img title="" src="./asset/architecture.png" alt="Untitled" data-align="inline">
+<img title="" src="./sd_pj//asset/architecture.png" alt="Untitled" data-align="inline">
 
 ---
 
